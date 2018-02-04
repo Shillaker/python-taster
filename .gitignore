@@ -1,0 +1,8 @@
+# IPython
+*.ipynb
+
+# Python
+*.py[co]
+__pycache__
+*.egg-info
+*.so
